@@ -13,6 +13,8 @@ venv/
 *.srt
 *.ass
 
+app2.py
+
 # Logs and other junk
 *.log
 
