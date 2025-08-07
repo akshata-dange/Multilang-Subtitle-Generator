@@ -1,0 +1,21 @@
+# Bytecode and Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Generated/intermediate files
+*.mp3
+*.mp4
+*.srt
+*.ass
+
+# Logs and other junk
+*.log
+
+# IDE/editor metadata
+.vscode/
+.idea/

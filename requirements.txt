@@ -1,0 +1,14 @@
+# Python version 10 is required.
+# git clone https://github.com/VarunGumma/IndicTransToolkit
+# cd IndicTransToolkit
+# pip install --editable . /home/neosoft/Documents/Subtitle system/app2.py
+# sudo apt-get install ffmpeg
+torch==2.7.1
+transformers==4.40.0
+numpy==2.2.6
+openai-whisper==20250625
+ffmpeg-python
+# indictrans-toolkit
+sentencepiece==0.2.0
+protobuf==3.6.1
+pillow 
