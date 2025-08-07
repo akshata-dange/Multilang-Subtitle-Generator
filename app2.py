@@ -62,7 +62,7 @@ subtitle_fonts = {
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
    
-#    -- TEXT TRANSLATION UTILITIES     
+#    TEXT TRANSLATION UTILITIES     
    
 
 def batch_translate(texts, translate_fn, batch_size=4):
